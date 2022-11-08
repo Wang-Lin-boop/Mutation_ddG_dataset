@@ -1,6 +1,6 @@
 # Mutation_ddG_DATA
 
-I summarized the mutant-ddG data from several different sources.
+A summarized mutant-ddG data from several different sources.
 
 Columns
 ---
