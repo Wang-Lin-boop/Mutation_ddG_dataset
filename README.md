@@ -10,7 +10,7 @@ Columns
 - __wildtype_sequence__  
 - __mutant_sequence__  
 
-Some of ddG is linearly transformed from dTm data, ddG=-4.39*ddG-0.15.
+Some of ddG is linearly transformed from dTm data, dTm=-4.39*ddG-0.15.
 
 Data Source
 ----
