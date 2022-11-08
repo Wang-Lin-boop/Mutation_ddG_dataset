@@ -4,11 +4,11 @@ A summarized mutant-ddG data from several different sources.
 
 Columns
 ---
-- mutation_str: WTaa_residueID_MUTaa  
-- ddG  
-- dTm  
-- wildtype_sequence  
-- mutant_sequence  
+- __mutation_str__: WTaa_residueID_MUTaa, such as V35A.  
+- __ddG__  
+- __dTm__  
+- __wildtype_sequence__  
+- __mutant_sequence__  
 
 Some of ddG is linearly transformed from dTm data.
 
