@@ -1,6 +1,15 @@
 # Mutation_ddG_DATA
 
-I summarized the mutant-ddG data from several different sources, a partial data were linearly transformed from dTm data.
+I summarized the mutant-ddG data from several different sources.
+
+Columns
+---
+- mutation_str: WTaa_residueID_MUTaa  
+- ddG  
+- dTm  
+- wildtype_sequence  
+- mutant_sequence  
+Some of ddG is linearly transformed from dTm data.
 
 Data Source
 ----
